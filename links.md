@@ -4,11 +4,11 @@ title: Recomendações
 permalink: /recomendacao/
 ---
 
-===
 
+===
 ## Área destinada a projetos parceiros, recomendados e outras fontes.
-
 ===
+
 ### Parceiros:
 - [Forum Tribo
 Crypto ](https://tribocrypto.com/) - Fórum sobre criptomoedas e
