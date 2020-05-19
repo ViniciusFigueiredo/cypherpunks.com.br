@@ -5,7 +5,6 @@ date:   30-03-1994 -0300
 categories: Hal Finney
 ---
 
-
 ### Hal Finney
 
 
