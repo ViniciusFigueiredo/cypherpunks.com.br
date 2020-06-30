@@ -12,7 +12,7 @@ permalink: /Biblioteca/
   {% endfor %} -->
 
   {% assign sorted-posts = site.posts | sort: 'title' %}
-{% for post in sorted-posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+  {% for post in sorted-posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
